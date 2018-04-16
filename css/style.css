@@ -1,0 +1,105 @@
+
+.header-box {
+	vertical-align: middle;
+}
+
+.header-box__left {
+	font-size: 12px;
+	color: #5a6770;
+}
+
+.header-box__partner {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.header-box__link {
+	font-size: 12px;
+	color: #5a6770;
+}
+
+.main-content__caption {
+	font-size: 21px;
+	color: #F26D1E;
+	font-weight: bold;
+}
+
+.main-content__postcaption {
+	font-size: 18px;
+	color: #5a6770;
+}
+
+.main-content__description {
+	font-size: 14px;
+	color: #5a6770;
+}
+
+.main-content__table_area {
+	padding: 5px 10px;
+	color: #5a6770;
+}
+
+.main-content__direction {
+	font-size: 12px;
+	color: #5a6770;
+}
+
+.content-action_position {
+	vertical-align: middle;
+	color: #5a6770;
+}
+
+.content-action__text {
+	color: #5a6770;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.content-action__caption {
+	color: #F26D1E;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.content-action__description {
+	font-size: 16px;
+	color: #5a6770;
+}
+
+.content-action__list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	color: #5a6770;
+}
+
+.content-action__point {
+	margin-bottom: 15px;
+}
+
+.content-action__image {
+	display: inline;
+}
+
+.content-action__pickout {
+	font-weight: bold;
+	padding-left: 15px;
+}
+
+.social__join {
+	text-align: center;
+	color: #5a6770;
+}
+
+.social__dealer {
+	text-align: left;
+}
+
+.social__dealer_link {
+	font-weight: bold;
+	padding: 7px 15px;
+	font-size: 12px;
+	background-color: #F26D1E;
+	color: #fff;
+	text-transform: uppercase;
+}
